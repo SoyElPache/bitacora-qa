@@ -1,0 +1,3 @@
+Aprendi que Git permite controlar versiones.
+Aprendi a crear repositorios.
+Aprendi a hacer commits.
