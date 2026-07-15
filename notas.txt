@@ -1,3 +1,5 @@
 Aprendi que Git permite controlar versiones.
 Aprendi a crear repositorios.
 Aprendi a hacer commits.
+Aprendi a usar git diff.
+Aprendi a revisar cambios antes de hacer commit.
